@@ -13,7 +13,7 @@ sub matrix {
     my $command = "freebasic"; 
     my $debugger = "freebasic"; # buffer perfect
     my $languges = "freebasic"; # freebasic pattern
-    my $matrix = $test->{"mevfainid"}; # syntax freebasic debugger languages and command's 
+    my $matrix = $test->{"mevfainid"}; # Dart to syntax Freebasic type debugger languages and command's 
     return $matrix;
 }
 
